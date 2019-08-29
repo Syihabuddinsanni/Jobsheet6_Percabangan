@@ -11,7 +11,6 @@
 
 
 
-# A
 (7)
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/6%20jwbn%207.png)
 # B
