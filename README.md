@@ -1,13 +1,17 @@
 # 𝓙𝓸𝓫𝓼𝓱𝓮𝓮𝓽6_𝓹𝓮𝓻𝓬𝓪𝓫𝓪𝓷𝓰𝓪𝓷
 
-# =====𝕊𝕠𝕒𝕝 ℕ𝕠. 6
+# =====𝕊𝕠𝕒𝕝 ℕ𝕠. 6 
+# A
 (3)
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/6%20jwbn%203.png)
+# B
+asdadadas
 
-
+# A
 (5)
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/6%20jwbn%205.png)
-
+# B
+DAdadadasdad
 
 (7)
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/6%20jwbn%207.png)
