@@ -91,4 +91,11 @@
 (85)
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/21%20jwbn%2085.png)
 
+# =====ℝ𝕖𝕤𝕖𝕡 𝕄𝕒𝕜𝕒𝕟𝕒𝕟=====
+![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/Resep%20Masakan.png)
+
+
+# =====𝕋𝕦𝕘𝕒𝕤 𝕋𝕒𝕞𝕓𝕒𝕙𝕒𝕟=====
+![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/Tagihan%20Listrik.png)
+
 
