@@ -6,6 +6,11 @@
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/6%20jwbn%203.png)
 # B
 
+Jika variabel a kurang dari 5, jadi a akan dicetak.kalau tidak memenuhi syarat akan tidak dicetak
+
+Jika variabel a sama dengan 5, jadi a akan dicetak.kalau tidak memenuhi syarat akan tidak dicetak
+
+Jika variabel a lebih dari 5, jadi a akan dicetak.kalau tidak memenuhi syarat akan tidak dicetak
 
 # A
 (5)
