@@ -14,11 +14,11 @@
 (7)
 ![Alt Text](https://github.com/Syihabuddinsanni/Jobsheet6_Percabangan/blob/master/6%20jwbn%207.png)
 # B
-Jika nilai a kurang dari 5, maka a akan dicetak.kalau tidak memenuhi syarat maka tidak dicetak
+Jika nilai a kurang dari 5 maka a akan dicetak.kalau tidak memenuhi syarat maka tidak dicetak
 
-Jika nilai a sama dengan 5, maka a akan dicetak.kalau tidak memenuhi syarat maka tidak dicetak
+Jika nilai a sama dengan 5 maka a akan dicetak.kalau tidak memenuhi syarat maka tidak dicetak
 
-Jika nilai a lebih dari 5, maka a akan dicetak.kalau tidak memenuhi syarat maka tidak dicetak
+Jika nilai a lebih dari 5 maka a akan dicetak.kalau tidak memenuhi syarat maka tidak dicetak
 
 # =====𝕊𝕠𝕒𝕝 ℕ𝕠. 9
 # A
